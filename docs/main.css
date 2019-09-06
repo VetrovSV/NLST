@@ -22,6 +22,12 @@ main{
     margin: auto;
 }
 
+footer{
+    width: 800px;
+    height: 100%;
+    margin: auto;
+}
+
 
 h1{
     margin-bottom: 1em;
