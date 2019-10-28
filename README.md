@@ -27,5 +27,8 @@
     * Линейная ползучесть. Релаксация.Модели описания явления ползучести
 
 
+## Примеры
+(Запускаются онланй, в mybinder.org)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VetrovSV/NLST/master)
 
 ## Задания
