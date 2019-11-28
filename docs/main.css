@@ -1,3 +1,5 @@
+@import "adaptive.css";
+
 .background{
     background-image: url(background.jpg);
     z-index: -1;
@@ -22,12 +24,6 @@ main{
     margin: auto;
 }
 
-footer{
-    width: 800px;
-    height: 100%;
-    margin: auto;
-    margin-top: 50px;
-}
 
 
 h1{
@@ -43,9 +39,15 @@ h3{
     margin-top: 1.5em;
 }
 
+
 li{
     margin-bottom: 0.4em;
 }
+
+
+
+
+
 
 /* для ссылки в самом низу страницы */
 .github-link{
@@ -54,20 +56,17 @@ li{
 
 
 
-@media screen and (max-width: 1000px){
-    
-    body, li{
-        font-size: 36px;
-    }
-    
-    h1{
-        font-size: 36px; 
-        line-height: 0.9em;
-        color: #666;
-    }
-    
-    h2{
-        font-size: 40px;
-    }
-    
+.questions{
+    font-style: italic;
+/*     font-size: 2px; */
+}
+
+
+
+
+footer{
+    width: 800px;
+    height: 100%;
+    margin: auto;
+    margin-top: 50px;
 }
