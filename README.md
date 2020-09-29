@@ -40,4 +40,5 @@ https://vetrovsv.github.io/NLST/
 (Запустить онланй, в mybinder.org)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VetrovSV/NLST/master/)
 
-## Задания
+## Ссылки
+- [Anaconda](https://www.anaconda.com)
