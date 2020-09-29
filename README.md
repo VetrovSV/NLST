@@ -43,3 +43,4 @@ https://vetrovsv.github.io/NLST/
 ## Ссылки
 - [Anaconda](https://www.anaconda.com)
 - [WolframAlpha](https://www.wolframalpha.com/)
+- [Google colab](https://colab.research.google.com)
