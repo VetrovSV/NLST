@@ -23,9 +23,9 @@ https://vetrovsv.github.io/NLST/
    
 1. Расчёты методом линейногопрограммирования [слайды](https://vetrovsv.github.io/NLST/LinOpt.%20Simplex-method.html)
    * симплекс метод, целевая функция, ограничения.
-   * пример: [запустить](https://camo.githubusercontent.com/483bae47a175c24dfbfc57390edd8b6982ac5fb3/68747470733a2f2f6d7962696e6465722e6f72672f62616467655f6c6f676f2e737667): examples -> LinOpt. Simplex-method.ipynb 
+   * пример: [запустить](https://mybinder.org/v2/gh/VetrovSV/NLST/master/): examples -> LinOpt. Simplex-method.ipynb 
    * [Расчёт балки методом линейного программирования на предельную нагрузку](https://vetrovsv.github.io/NLST/SimplexMethod%20for%20beam.html)
-   * пример: [запустить](https://camo.githubusercontent.com/483bae47a175c24dfbfc57390edd8b6982ac5fb3/68747470733a2f2f6d7962696e6465722e6f72672f62616467655f6c6f676f2e737667): examples -> SimplexMethod for beam.ipynb
+   * пример: [запустить](https://mybinder.org/v2/gh/VetrovSV/NLST/master/): examples -> SimplexMethod for beam.ipynb
    
    
 1. Расчёты методом нелинейного программирования
