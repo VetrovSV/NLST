@@ -21,7 +21,7 @@ https://vetrovsv.github.io/NLST/
     * [РГР 1: Расчёт балки по методу предельных состояний](https://github.com/VetrovSV/NLST/blob/master/task1.md)
     
    
-1. Расчёты методом линейногопрограммирования [слайды](https://vetrovsv.github.io/NLST/LinOpt.%20Simplex-method.html)
+1. Расчёты методом линейногопрограммирования [слайды](https://github.com/VetrovSV/NLST/blob/master/NelST.%202.%20Linear_optimisation.pdf) 
    * симплекс метод, целевая функция, ограничения.
    * пример: [запустить](https://mybinder.org/v2/gh/VetrovSV/NLST/master/): examples -> LinOpt. Simplex-method.ipynb 
    * [Расчёт балки методом линейного программирования на предельную нагрузку](https://vetrovsv.github.io/NLST/SimplexMethod%20for%20beam.html)
