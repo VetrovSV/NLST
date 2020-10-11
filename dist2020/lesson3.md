@@ -1,5 +1,5 @@
 # октябрь 13. Линейное программирование
-- Лекция: лекция пройдёт в discord в 10.15. ссылка будет в личном кабинете или у старосты на почте
+- Лекция: лекция пройдёт в discord в 10.15. ссылка будет в личном кабинете или у старосты. В discord нужно зарегистрироваться. 
 - Материалы лекции:
   - https://github.com/VetrovSV/NLST/blob/master/examples/LinOpt.%20Simplex-method.ipynb
   - https://github.com/VetrovSV/NLST/blob/master/examples/SimplexMethod%20for%20beam.ipynb
