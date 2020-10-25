@@ -18,3 +18,6 @@
    - Другие способы открыть файл:
     - Способ 2: Ссылка для запуска Подготовка к запуску может занять несколько минут. После подготовки появится список файлов и папок. выберете examples > далее файл LinOpt. Simplex-method.ipynb Для запуска всех вычислений: меню Cells > Run All. Аналогично открывается файл SimplexMethod for beam.ipynb
     - Способ 3: скачайте и установите Anaconda. Запустите Jupyter Notebook. Скачайте файл с вычислениями. Откройте его в Jupyter Notebook Запустите все вычисления: меню Cells > Run All
+
+
+[к списку заданий](https://github.com/VetrovSV/NLST/blob/master/dist2020/tasks2020.md)
