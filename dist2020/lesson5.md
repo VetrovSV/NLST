@@ -5,8 +5,8 @@
 - Разбор вопросов.
 - Краткое повторение предыдудщего материала
 - Материалы лекции: 
-  - https://github.com/VetrovSV/NLST/blob/master/examples/Nonlinear%20Optimisation.ipynb
-  - https://github.com/VetrovSV/NLST/blob/master/examples/Nonlinear%20programming%20for%20beam.ipynb
+  - https://github.com/VetrovSV/NLST/blob/master/examples/Nonlinear%20Optimisation.ipynb.pdf?raw=true
+  - https://github.com/VetrovSV/NLST/blob/master/examples/Nonlinear%20programming%20for%20beam.ipynb.pdf?raw=true
     
 ### Практическое задание
 - [РГР2](https://github.com/VetrovSV/NLST/blob/master/task2.md)
