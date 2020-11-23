@@ -5,10 +5,14 @@
 - Разбор вопросов.
 - Краткое повторение предыдудщего материала
 - Материалы лекции: 
-  - https://github.com/VetrovSV/NLST/blob/master/Nonlinear%20Optimisation.ipynb.pdf?raw=true
-  - https://github.com/VetrovSV/NLST/blob/master/Nonlinear%20programming%20for%20beam.ipynb.pdf?raw=true
+  - pdf
+    - https://github.com/VetrovSV/NLST/blob/master/examples/Nonlinear%20programming%20for%20beam.ipynb%20-%20Colaboratory.pdf?raw=true
+    - https://github.com/VetrovSV/NLST/blob/master/examples/Nonlinear%20programming%20for%20beam%20--%20regular%20method.ipynb%20-%20Colaboratory.pdf?raw=true
+  - google colab  
+    - https://github.com/VetrovSV/NLST/blob/master/examples/Nonlinear%20programming%20for%20beam%20--%20regular%20method.ipynb?raw=true
+    - https://github.com/VetrovSV/NLST/blob/master/examples/Nonlinear%20programming%20for%20beam.ipynb?raw=true
     
-### Практическое задание
+### Практическое и домашнее задание
 - [РГР2](https://github.com/VetrovSV/NLST/blob/master/task2.md)
   - Выполните пункты 1-6
   - в п.5. разбейте раму на 3 части. Сечния этих частей могут отличатся
@@ -17,7 +21,7 @@
 - Для запска примеров и вычислений онлайн:
   - откройте google colab
     1. меню File > Open Notebook > HitHub >
-    1. Вставьте ссылку https://github.com/VetrovSV/NLST/blob/master/examples/SimplexMethod%20for%20beam.ipynb
+    1. Вставьте ссылку https://github.com/VetrovSV/NLST/blob/master/examples/Nonlinear%20programming%20for%20beam%20--%20regular%20method.ipynb?raw=true (распределённая нагрузка)
     1. нажмите на поиск (лупу)
     1. Откроется текст программы с вычислениями
     1. Для запуска нужно войти в аккаунт Гугл
