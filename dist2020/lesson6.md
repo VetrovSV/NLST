@@ -13,9 +13,7 @@
     - https://github.com/VetrovSV/NLST/blob/master/examples/Nonlinear%20programming%20for%20beam.ipynb?raw=true
     
 ### Практическое и домашнее задание
-- [РГР2](https://github.com/VetrovSV/NLST/blob/master/task2.md)
-  - Выполните пункты 1-6
-  - в п.5. разбейте раму на 3 части. Сечния этих частей могут отличатся
+- см. файл https://github.com/VetrovSV/NLST/blob/master/examples/Nonlinear%20programming%20for%20beam%20--%20regular%20method.ipynb%20-%20Colaboratory.pdf?raw=true
     
     
 - Для запска примеров и вычислений онлайн:
