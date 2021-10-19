@@ -31,7 +31,10 @@ https://vetrovsv.github.io/NLST/
    
    
 1. Расчёты методом нелинейного программирования
-   * Конструкторские задачи при использовании метода предельныхсостояний
+   - частный случай определения предельной интенсивности распределённой нагрузки: https://github.com/VetrovSV/NLST/blob/master/Nonlinear%20programming%20for%20beam.ipynb.pdf
+   - метод нелинейного программирования (безусловная оптимизация): https://github.com/VetrovSV/NLST/blob/master/Nonlinear%20Optimisation.ipynb.pdf
+   - определение предельной нагрузки методом нелинейного программирования (+ задание): https://drive.google.com/file/d/1NBlZbghkB7y9MGWGUON5sb0kH4Mu9M3O/view?usp=sharing 
+   * Конструкторские задачи при использовании метода предельных состояний
    
    
 1. Учёт ползучести материалов
