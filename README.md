@@ -2,8 +2,9 @@
 
 https://vetrovsv.github.io/NLST/
 
+### [Дистанционные занятия 2021](https://github.com/VetrovSV/NLST/blob/master/dist2021/readme.md)
 
-## [Дистанционные занятия 2020](https://github.com/VetrovSV/NLST/blob/master/dist2020/tasks2020.md)
+### [Дистанционные занятия 2020](https://github.com/VetrovSV/NLST/blob/master/dist2020/tasks2020.md)
 
 ## Структура дисциплины
 1. Введение [Слайды](https://github.com/VetrovSV/NLST/blob/master/NlST.%201.%20Intro.pdf?raw=true)
