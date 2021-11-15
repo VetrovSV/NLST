@@ -1,19 +1,20 @@
-# Ноябрь 24. Нелинейное программирование. Расчёт балки с распределённой нагрузкой (продолжение) 
+# Декабрь 08. Нелинейное программирование. Расчёт рамы с распределённой нагрузкой
 
 ### Лекция: 
-- в discord в 10.15.
-- Разбор вопросов.
-- Краткое повторение предыдудщего материала
-- Материалы лекции: 
+- Изучите материалы
   - pdf
-    - https://github.com/VetrovSV/NLST/blob/master/examples/Nonlinear%20programming%20for%20beam.ipynb%20-%20Colaboratory.pdf?raw=true
     - https://github.com/VetrovSV/NLST/blob/master/examples/Nonlinear%20programming%20for%20beam%20--%20regular%20method.ipynb%20-%20Colaboratory.pdf?raw=true
   - google colab  
     - https://github.com/VetrovSV/NLST/blob/master/examples/Nonlinear%20programming%20for%20beam%20--%20regular%20method.ipynb?raw=true
-    - https://github.com/VetrovSV/NLST/blob/master/examples/Nonlinear%20programming%20for%20beam.ipynb?raw=true
+
     
 ### Практическое и домашнее задание
-- см. файл https://github.com/VetrovSV/NLST/blob/master/examples/Nonlinear%20programming%20for%20beam%20--%20regular%20method.ipynb%20-%20Colaboratory.pdf?raw=true
+- Добавте распеделённую нагрузку q в схему для РГР2 на горизонтальную часть рамы
+  - варианты 1-6: нагрузка слева от силы F
+  - варианты 1-6: нагрузка справа от силы F
+-  определите q
+  - задайте целевую функцию q -> max
+  - F выразите через  q как: q*2
     
     
 - Для запска примеров и вычислений онлайн:

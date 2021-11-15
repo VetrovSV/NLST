@@ -1,19 +1,17 @@
-# Ноябрь 24. Нелинейное программирование. Расчёт балки с распределённой нагрузкой (продолжение) 
+# Декабрь 22. Повторение материала. Разбор вопросов. 
 
 ### Лекция: 
-- в discord в 10.15.
-- Разбор вопросов.
-- Краткое повторение предыдудщего материала
-- Материалы лекции: 
-  - pdf
-    - https://github.com/VetrovSV/NLST/blob/master/examples/Nonlinear%20programming%20for%20beam.ipynb%20-%20Colaboratory.pdf?raw=true
+- Повторение прошлого материала.
+- Ответы на вопросы
     - https://github.com/VetrovSV/NLST/blob/master/examples/Nonlinear%20programming%20for%20beam%20--%20regular%20method.ipynb%20-%20Colaboratory.pdf?raw=true
-  - google colab  
-    - https://github.com/VetrovSV/NLST/blob/master/examples/Nonlinear%20programming%20for%20beam%20--%20regular%20method.ipynb?raw=true
-    - https://github.com/VetrovSV/NLST/blob/master/examples/Nonlinear%20programming%20for%20beam.ipynb?raw=true
+    - https://github.com/VetrovSV/NLST/blob/master/Nonlinear%20programming%20for%20beam.ipynb.pdf?raw=true
+    - https://github.com/VetrovSV/NLST/blob/master/examples/SimplexMethod%20for%20beam.ipynb
+ 
+
     
 ### Практическое и домашнее задание
-- см. файл https://github.com/VetrovSV/NLST/blob/master/examples/Nonlinear%20programming%20for%20beam%20--%20regular%20method.ipynb%20-%20Colaboratory.pdf?raw=true
+- Разбор заданий
+- Закончите решение и оформление всех работ
     
     
 - Для запска примеров и вычислений онлайн:

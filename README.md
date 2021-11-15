@@ -2,8 +2,9 @@
 
 https://vetrovsv.github.io/NLST/
 
+### [Дистанционные занятия 2021](https://github.com/VetrovSV/NLST/blob/master/dist2021/readme.md)
 
-## [Дистанционные занятия](https://github.com/VetrovSV/NLST/blob/master/dist2020/tasks2020.md)
+### [Дистанционные занятия 2020](https://github.com/VetrovSV/NLST/blob/master/dist2020/tasks2020.md)
 
 ## Структура дисциплины
 1. Введение [Слайды](https://github.com/VetrovSV/NLST/blob/master/NlST.%201.%20Intro.pdf?raw=true)
@@ -25,13 +26,16 @@ https://vetrovsv.github.io/NLST/
    
 1. Расчёты методом линейногопрограммирования [слайды](https://github.com/VetrovSV/NLST/blob/master/NelST.%202.%20Linear_optimisation.pdf) 
    * симплекс метод, целевая функция, ограничения.
-   * пример: [запустить](https://mybinder.org/v2/gh/VetrovSV/NLST/master/): examples -> LinOpt. Simplex-method.ipynb 
-   * [Расчёт балки методом линейного программирования на предельную нагрузку](https://vetrovsv.github.io/NLST/SimplexMethod%20for%20beam.html)
-   * пример: [запустить](https://mybinder.org/v2/gh/VetrovSV/NLST/master/): examples -> SimplexMethod for beam.ipynb
+   * пример Симплекс-метода: https://colab.research.google.com/drive/1vpBZ8uwMXBLrmMmyupSQDhulMyJGJUZ5?usp=sharing
+   * [Расчёт балки методом линейного программирования на предельную нагрузку (просмотр)](https://vetrovsv.github.io/NLST/SimplexMethod%20for%20beam.html)
+   * пример: [запустить](https://colab.research.google.com/drive/1a_nWKDlozfEpBIT0Thgs6d6bHx7x-H2r?usp=sharing)
    
    
 1. Расчёты методом нелинейного программирования
-   * Конструкторские задачи при использовании метода предельныхсостояний
+   - частный случай определения предельной интенсивности распределённой нагрузки: https://colab.research.google.com/drive/1gPrzbFx7T_vz4vHgR0Ok2WUyP2_O0EmZ?usp=sharing
+   - метод нелинейного программирования (безусловная оптимизация): https://github.com/VetrovSV/NLST/blob/master/examples/%5BNLST%5D_Nonlinear_Optimisation.ipynb
+   - определение предельной нагрузки методом нелинейного программирования (+ задание): https://colab.research.google.com/drive/1anuzw1Rh_8QHuY8KYOQz1Vy51oDFw9by?usp=sharing
+   * Конструкторские задачи при использовании метода предельных состояний
    
    
 1. Учёт ползучести материалов
