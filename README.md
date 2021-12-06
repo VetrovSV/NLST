@@ -29,6 +29,7 @@ https://vetrovsv.github.io/NLST/
    * пример Симплекс-метода: https://colab.research.google.com/drive/1vpBZ8uwMXBLrmMmyupSQDhulMyJGJUZ5?usp=sharing
    * [Расчёт балки методом линейного программирования на предельную нагрузку (просмотр)](https://vetrovsv.github.io/NLST/SimplexMethod%20for%20beam.html)
    * пример: [запустить](https://colab.research.google.com/drive/1a_nWKDlozfEpBIT0Thgs6d6bHx7x-H2r?usp=sharing)
+   * оптимизация: https://colab.research.google.com/drive/1avgEwj1hNJyAQFuCn_TZgiADijlhfApp?usp=sharing
    
    
 1. Расчёты методом нелинейного программирования
