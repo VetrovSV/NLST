@@ -12,8 +12,8 @@ https://vetrovsv.github.io/NLST/
     * конструктивная нелинейность
     * диаграммы растяжения-сжатия
     * пластический шарнир
-    
-    
+
+
 1. Расчёты стержневых систем методом предельных состояний
     * Упругопластический расчёт статически неопределимой балки сотслеживанием механизма разрушения
     * Статическая и кинематическая теоремы
@@ -22,22 +22,18 @@ https://vetrovsv.github.io/NLST/
     * *Расчёт рамы кинематическим методом*
     * *Решения статическим методом без рассмотрения механизмов разрушения*
     * [РГР 1: Расчёт балки по методу предельных состояний](https://github.com/VetrovSV/NLST/blob/master/task1.md)
-    
-   
-1. Расчёты методом линейногопрограммирования [слайды](https://github.com/VetrovSV/NLST/blob/master/NelST.%202.%20Linear_optimisation.pdf) 
+1. Расчёты методом линейногопрограммирования [слайды](https://github.com/VetrovSV/NLST/blob/master/NelST.%202.%20Linear_optimisation.pdf)
    * симплекс метод, целевая функция, ограничения.
    * пример Симплекс-метода: https://colab.research.google.com/drive/1vpBZ8uwMXBLrmMmyupSQDhulMyJGJUZ5?usp=sharing
    * [Расчёт балки методом линейного программирования на предельную нагрузку (просмотр)](https://vetrovsv.github.io/NLST/SimplexMethod%20for%20beam.html)
    * пример: [запустить](https://colab.research.google.com/drive/1a_nWKDlozfEpBIT0Thgs6d6bHx7x-H2r?usp=sharing)
-   
-   
 1. Расчёты методом нелинейного программирования
    - частный случай определения предельной интенсивности распределённой нагрузки: https://colab.research.google.com/drive/1gPrzbFx7T_vz4vHgR0Ok2WUyP2_O0EmZ?usp=sharing
    - метод нелинейного программирования (безусловная оптимизация): https://github.com/VetrovSV/NLST/blob/master/examples/%5BNLST%5D_Nonlinear_Optimisation.ipynb
    - определение предельной нагрузки методом нелинейного программирования (+ задание): https://colab.research.google.com/drive/1anuzw1Rh_8QHuY8KYOQz1Vy51oDFw9by?usp=sharing
    * оптимизация: https://colab.research.google.com/drive/1avgEwj1hNJyAQFuCn_TZgiADijlhfApp?usp=sharing (пример расчёта)
-   
-   
+1. Учёт физической нелинейности в ЛИРА САПР. Модели деформирования. Шаговый метод. \
+https://www.liraland.ru/files/format-pdf/
 1. Учёт ползучести материалов
     * Линейная ползучесть. Релаксация.Модели описания явления ползучести
 
