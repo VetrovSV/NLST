@@ -11,6 +11,7 @@ https://vetrovsv.github.io/NLST/
     * физическая и геометрическая нелинейность
     * конструктивная нелинейность
     * диаграммы растяжения-сжатия
+      * https://colab.research.google.com/drive/1PNzSRq3xtvmDNL4jg65cA-K2SnaREvay?usp=sharing
     * пластический шарнир
 
 
@@ -36,6 +37,7 @@ https://vetrovsv.github.io/NLST/
 https://www.liraland.ru/files/format-pdf/
 1. Учёт ползучести материалов
     * Линейная ползучесть. Релаксация.Модели описания явления ползучести
+    * https://colab.research.google.com/drive/1dPDki1_F8fvmDG4bd5XlHhlX-1iUKASK?usp=sharing
 
 
 ## Примеры программ
